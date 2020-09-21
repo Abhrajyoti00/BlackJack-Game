@@ -2,7 +2,8 @@
 This is My BlackJack created using Python OOPs <br />
 Download the Source Code made available in .ipynb file and play the game :)
 
-Game Rules : <br />
+ Game Rules :- <br />
+----------------------
 
 The Deck of playing cards has four suits (Hearts, Diamonds, Spades and Clubs) <br />
 
@@ -15,8 +16,8 @@ There are Thirteen Ranks:- <br />
   3. Aces have a rank of either 11 or 1 as needed to reach 21 without busting. <br />          
 
 
- Game Rule :- <br />
-------------- 
+Game Objective :- <br />
+----------------- 
 
 
 "Get as close to 21 as you can without going over!<br />
